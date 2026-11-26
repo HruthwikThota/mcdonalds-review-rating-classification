@@ -1,0 +1,9 @@
+{
+    "n_layers": 2,
+    "dropout_rate": 0.10978368846063798,
+    "learning_rate": 0.004182884024217435,
+    "optimizer": "adam",
+    "batch_size": 32,
+    "units_layer_1": 256,
+    "units_layer_2": 64
+}
